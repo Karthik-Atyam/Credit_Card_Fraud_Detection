@@ -57,7 +57,4 @@ The dataset used is the **Credit Card Fraud Detection** dataset from Kaggle ([li
 - Python 3.7 or higher
 - pip package manager
 
-### Clone the repository
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+
